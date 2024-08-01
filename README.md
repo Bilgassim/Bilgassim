@@ -28,7 +28,7 @@ Feel free to connect with me or explore my projects!
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-boulkassoum-boulkassoum-ab409323a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moboulkassoum)
 [![Gmail](https://img.shields.io/badge/Email-Me-red)](mailto:boulkassoum2002@gmail.com)
 
 
