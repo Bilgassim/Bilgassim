@@ -9,7 +9,7 @@ Feel free to connect with me or explore my projects!
 - 👯 I’m looking to collaborate on projects related to information systems management and data analysis.
 - 🤔 I’m looking for help with mastering Big Data technologies.
 - 💬 Ask me about information systems management, technology trends, and team collaboration.
-- 📫 How to reach me: [boulkassoum2002@gmail.com](mailto:boulkassoum2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohamed-boulkassoum-boulkassoum-ab409323a/)
+- 📫 How to reach me: [boulkassoum2002@gmail.com](mailto:boulkassoum2002@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moboulkassoum)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always up for a good challenge and love learning new tech skills in my spare time.
 
