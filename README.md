@@ -25,6 +25,7 @@ Feel free to connect with me or explore my projects!
 
 - [Site de Gestion RDV pour cabinet medical]([https://github.com/yourusername/project1](https://github.com/Bilgassim/Site-Gestion-RDV-Pour-Cabinet-Medical.git)): Une application web moderne pour la prise de rendez-vous en ligne dans un cabinet médical. Simplifiez la gestion des rendez-vous et améliorez l'expérience de vos patients avec des fonctionnalités intuitives et une interface conviviale. Développée avec React et Laravel.
 - [Agile-final-project]([https://github.com/yourusername/project2](https://github.com/Bilgassim/agile-final-project.git)): Ce projet vise à mettre en place un système de gestion de projet agile en utilisant un Kanban board et des graphes pour suivre l'avancement du projet. L'objectif est d'optimiser la planification et le suivi des tâches afin d'améliorer l'efficacité et la collaboration au sein de l'équipe.
+- [Sinco Shop](https://github.com/Bilgassim/SincoShop-Laravel-project.git) :  est une application de gestion de stocks et de commandes développée en Laravel avec une interface utilisateur moderne et intuitive. Ce projet est conçu pour aider les petites entreprises à gérer efficacement leurs stocks, commandes, fournisseurs, et à générer des rapports analytiques.
 
 ### Connect with Me
 
